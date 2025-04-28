@@ -102,4 +102,4 @@ Finally, a **Stacked Ensemble Model** was built using the outputs of these four 
 
 ## License
 
-This project is intended for **academic and educational** use only.
+This project is under the [MIT License](LICENSE).
