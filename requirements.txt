@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow
+torch
+liquidml
+scipy
+plotly
+transformers
+jupyter
+openpyxl
